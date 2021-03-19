@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#49BEFF</color>
+    <color name="colorPrimaryDark">#65DCE5</color>
+    <color name="colorAccent">#0D5D98</color>
+    <color name="colorName">#ffffff</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorSub">#f2f2f2</color>
+    <color name="startBlue">#49BEFF</color>
+    <color name="endBlue">#0BCCE6</color>
+    <color name="colorFuncButtonBG">#0BCCE6</color>
+    <color name="colorFuncButtonTxt">#FFFFFF</color>
+    <color name="colorNumButtonBG">#FFFFFF</color>
+    <color name="colorNumButtonTxt">#0BCCE6</color>
+    <color name="calcBG">#222222</color>
+</resources>
